@@ -23,3 +23,12 @@ By building a basic RPG from scratch, I can creatively practice programming conc
 - Space interacts with bushes and interacts with NPCs
 
 ## What are the features that the project provides?
+
+Output Screenshots
+=============
+
+<img width="1098" height="573" alt="Image" src="https://github.com/user-attachments/assets/9beee86f-2e0f-4ec4-a136-2c9a51824348" />
+
+<img width="1101" height="573" alt="Image" src="https://github.com/user-attachments/assets/933267aa-1000-48fb-88d3-32afd89847d7" />
+
+<img width="1094" height="573" alt="Image" src="https://github.com/user-attachments/assets/34a289aa-7b17-473a-80cf-0e12f2265f61" />
